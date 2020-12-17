@@ -23,10 +23,18 @@
 ### Docker and Containers
 
 - [ ] [Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers/)
-  - [ ] Containers
+  - [x] Containers
+    - [x] Containers
+    - [x] chroot
+    - [x] chroot Exercise
+    - [x] chroot Solution
+    - [x] Namespaces
+    - [x] cgroups
   - [ ] Docker
   - [ ] The Dockerfile
   - [ ] Making Tiny Containers
   - [ ] Features in Docker
   - [ ] Multi Container Projects
   - [ ] OCI
+
+## Frontend
