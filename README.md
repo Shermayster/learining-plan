@@ -30,13 +30,13 @@
     - [x] chroot Solution
     - [x] Namespaces
     - [x] cgroups
-  - [ ] Docker
+  - [x] Docker
     - [x] Getting Set Up with Docker
     - [x] Docker Images without Docker
     - [x] Docker Images with Docker
-    - [ ] Node.js on Docker
-    - [ ] Tags
-    - [ ] Docker CLI
+    - [x] Node.js on Docker
+    - [x] Tags
+    - [x] Docker CLI
   - [ ] The Dockerfile
   - [ ] Making Tiny Containers
   - [ ] Features in Docker
@@ -45,4 +45,17 @@
 
 ## Frontend
 
+### React
+
+- [ ] [Epic React - Kent C Dodds](http://epicreact.dev/)
+  - [x] React Fundamentals
+  - [x] React Hooks
+  - [ ] Advanced React Hooks
+    - [x] useReducer: simple Counter
+    - [x] useCallback: custom hooks
+    - [x] useContext: simple Counter
+    - [x] useLayoutEffect: auto-scrolling textarea
+    - [x] useImperativeHandle: scroll to top/bottom
+    - [ ] useDebugValue: useMedia
+  
 ## Machine Learning
