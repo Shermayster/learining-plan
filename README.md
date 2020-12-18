@@ -31,6 +31,12 @@
     - [x] Namespaces
     - [x] cgroups
   - [ ] Docker
+    - [x] Getting Set Up with Docker
+    - [x] Docker Images without Docker
+    - [x] Docker Images with Docker
+    - [ ] Node.js on Docker
+    - [ ] Tags
+    - [ ] Docker CLI
   - [ ] The Dockerfile
   - [ ] Making Tiny Containers
   - [ ] Features in Docker
@@ -38,3 +44,5 @@
   - [ ] OCI
 
 ## Frontend
+
+## Machine Learning
