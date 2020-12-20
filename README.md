@@ -6,6 +6,7 @@
 
 - [ ] [Java Programming: Arrays, Lists, and Structured Data - Coursera](https://www.coursera.org/learn/java-programming-arrays-lists-data)
 - [ ] [Object Oriented Programming in Java - Coursera](https://www.coursera.org/learn/object-oriented-java)
+  - [x] Week 1
 
 ### Databases
 
@@ -37,8 +38,19 @@
     - [x] Node.js on Docker
     - [x] Tags
     - [x] Docker CLI
-  - [ ] The Dockerfile
-  - [ ] Making Tiny Containers
+  - [x] The Dockerfile
+    - [x] Dockerfiles Preamble
+    - [x] Build a Node.js app
+    - [x] Run a Node.js app
+    - [x] Add dependencies to a Node.js app
+    - [x] EXPOSE
+    - [x] Layers
+    - [x] Docker ignore
+  - [x] Making Tiny Containers
+    - [x] Alpine Linux
+    - [x] Alpine Node.js Container
+    - [x] Multi-Stage Builds
+    - [x] Static Assets Project
   - [ ] Features in Docker
   - [ ] Multi Container Projects
   - [ ] OCI
